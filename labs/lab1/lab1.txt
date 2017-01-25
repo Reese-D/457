@@ -1,0 +1,14 @@
+1) There are many background programs that are running at all times as well as many other computers on the network.
+2) HTTP protocol is important because it helps determine how messages are formatted and transmitted. This is important, without this feature messages would come in as bytes but without guidance on how they should be used, and would end up as useless information
+3) You can tell that a packet was sent by your computer because the source ip address listed will be the same as the computer that you're using. There are visible packets that who's destination and source addresses don't match the current computer because there are other computers on the network that are sending and receiving packets.
+4) Protocols used are:
+Link: Ethernet II 
+Network: internet protocol version 4 
+Transport: transmission control protocol
+Application: hypertext transfer protocol
+5) You see many different packet requests because the images and varius other parts or partial views on the page redirect or request you to load data from another source. An image that is loaded may be stored elsewhere.
+6) The two protocols with address are the Ethernet II and the internet protocol version 4
+7) The source and destination are swapped, both have the same header length and version
+8) The protocols stayed the same in the network and link layers, but changed in the transportation and application layers.
+9) TCP is used for http traffic because there is a lot of back and forth between the two, tcp allows a connection to be established and maintained instead of being sent out without receiving a response. Http needs to know whether or not the packet was received.
+10) Tcp looks more human readable than UDP, this is probably because it sends a lot of text, which needs to be read by a person. UDP on the other hand often streams images and video which have no need of being readable by a person.   

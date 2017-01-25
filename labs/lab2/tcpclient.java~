@@ -1,0 +1,14 @@
+import java.io.*;
+import java.net.*;
+import java.nio.*;
+import java.nio.channels.*;
+
+class tcpclient{
+    public static void main(String args[]){
+	try{
+	    SocketChannel sc = new SocketChann
+	}catch(IOException e){
+	    System.out.println("got an IO Exception");
+	}
+    }
+}
